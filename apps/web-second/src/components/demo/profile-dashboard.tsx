@@ -257,7 +257,7 @@ export function ProfileDashboard() {
               <div className="portal-grid">
                 <label>
                   პირადი ნომერი
-                  <input readOnly value="01019087686" aria-label="პირადი ნომერი" />
+                  <input readOnly value="01005038386" aria-label="პირადი ნომერი" />
                 </label>
                 <label>
                   CU ელ. ფოსტა
