@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vercel/
+**/.react-router/
+.env
+.env.*
+!.env.example
+vault/
+app.tar.gz
